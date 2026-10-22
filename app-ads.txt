@@ -156,7 +156,7 @@ media.net, 8CU9B72O6, RESELLER
 rubiconproject.com, 25336, RESELLER, 0bfd66d529a55807
 loopme.com, 2896, RESELLER, 6c8d5f95897a5a3b
 triplelift.com, 14705, RESELLER, 6c33edb13117fd86
-triplelift.com, 14594, RESELLER, 6c33edb13117fd86
+triplelift.com, 14594, RESELLER, 6c33edb13117fd86, connekt.ai, 5585919044, RESELLER
 xandr.com, 13799, RESELLER
 rubiconproject.com, 24752, RESELLER, 0bfd66d529a55807
 triplelift.com, 14709, RESELLER, 6c33edb13117fd86
